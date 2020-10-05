@@ -2,7 +2,7 @@
   "benefitsCPCSearchEnabled": [
     { "123": true}
   ],
-  "benefitsKeywordearch": [
+  "benefits/KeywordSearch": [
     {
         "CPC": 123,
         "BenefitCategoryName": "fitness1",
