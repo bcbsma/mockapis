@@ -7,13 +7,13 @@
         "CPC": 123,
         "BenefitCategoryName": "fitness1",
         "BenefitCategoryID": 9,
-        "BenefitShortDescription": "What short Description"
+        "BenefitShortDescription": "short Description, will update here"
     },
     {
         "CPC": 123,
         "BenefitCategoryName": "fitness2",
         "BenefitCategoryID": 10,
-        "BenefitShortDescription": "What short Description"
+        "BenefitShortDescription": "short Description, will update here"
     }
   ],
   "benefitsCPCbenefitCategoryID":
