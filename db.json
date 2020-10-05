@@ -4,13 +4,13 @@
   ],
   "benefitsKeywordearch": [
     {
-        "CPC": 123
+        "CPC": 123,
         "BenefitCategoryName": "fitness1",
         "BenefitCategoryID": 9,
         "BenefitShortDescription": "What short Description"
     },
     {
-        "CPC": 123
+        "CPC": 123,
         "BenefitCategoryName": "fitness2",
         "BenefitCategoryID": 10,
         "BenefitShortDescription": "What short Description"
@@ -18,9 +18,9 @@
   ],
   "benefitsCPCbenefitCategoryID":
     {
-        "CPC": 123
+        "CPC": 123,
         "BenefitCategoryName": "fitness2",
         "BenefitCategoryID": 10,
-        "BenefitEnglishDescription": "English description2" or null
+        "BenefitEnglishDescription": "English description2"
     }
 }
