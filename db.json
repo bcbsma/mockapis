@@ -19,8 +19,8 @@
   "benefitsCPCbenefitCategoryID":
     {
         "CPC": 145231,
-        "BenefitCategoryName": "Inpatient Care in a Rehabilitation Hospital",
-        "BenefitCategoryID": 11,
-        "BenefitEnglishDescription": "This health plan covers medically necessary inpatient admissions in a Rehabilitation Hospital."
+        "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
+        "BenefitCategoryID": 9,
+        "BenefitEnglishDescription": "This health plan covers medically necessary Semiprivate room and board and special services furnished by the hospital."
     }
 }
