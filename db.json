@@ -1,26 +1,26 @@
 {
   "benefitsCPCSearchEnabled": [
-    { "123": true}
+    { "145231": true}
   ],
   "benefitsKeywordSearch": [
     {
-        "CPC": 123,
-        "BenefitCategoryName": "fitness1",
+        "CPC": 145231,
+        "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
         "BenefitCategoryID": 9,
-        "BenefitShortDescription": "short Description, will update here"
+        "BenefitShortDescription": "Semiprivate room and board and special services furnished by the hospital."
     },
     {
-        "CPC": 123,
-        "BenefitCategoryName": "fitness2",
+        "CPC": 145231,
+        "BenefitCategoryName": "Inpatient Care in a Chronic Disease Hospital",
         "BenefitCategoryID": 10,
-        "BenefitShortDescription": "short Description, will update here"
+        "BenefitShortDescription": "Medical care furnished by a Physician or Nurse Practitioner."
     }
   ],
   "benefitsCPCbenefitCategoryID":
     {
-        "CPC": 123,
-        "BenefitCategoryName": "fitness2",
-        "BenefitCategoryID": 10,
-        "BenefitEnglishDescription": "English description2"
+        "CPC": 145231,
+        "BenefitCategoryName": "Inpatient Care in a Rehabilitation Hospital",
+        "BenefitCategoryID": 11,
+        "BenefitEnglishDescription": "This health plan covers medically necessary inpatient admissions in a Rehabilitation Hospital."
     }
 }
