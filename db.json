@@ -1,6 +1,6 @@
 {
   "benefitsCPCSearchEnabled": [
-    { "145231": true},
+    { "145231": true}
   ],
   "benefitsKeywordSearch": [
     {
@@ -8,7 +8,7 @@
         "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
         "BenefitCategoryID": 9,
         "BenefitShortDescription": "Semiprivate room and board and special services furnished by the hospital.Surgery furnished by a Physician, Podiatrist, Nurse Practitioner or Dentist and services of an assistant surgeon when Blue Cross Blue Shield decides an assistant is needed. Reconstructive surgery. This is non-dental surgery that is meant to improve or give back bodily function or correct a functional physical impairment that was caused by a birth defect, a prior surgical procedure or disease or an accidental injury. This includes surgery to correct a deformity or disfigurement that was caused by an accidental injury. For services on or after November 8, 2016, this also includes surgery to correct or repair disturbances of body composition caused by HIV associated lipodystrophy syndrome, when the covered provider determines treatment is necessary to correct, repair, or lessen the effects of HIV associated lipodystrophy syndrome. These services include (but are not limited to): reconstructive surgery, such as suction-assisted lipectomy; other restorative procedures; and dermal injections or fillers for reversal of facial lipoatrophy syndrome."
-    }
+    },
     {
         "CPC": 145231,
         "BenefitCategoryName": "Inpatient Care in a Chronic Disease Hospital",
