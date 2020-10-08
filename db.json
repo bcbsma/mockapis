@@ -47,6 +47,6 @@
     "CPC": 123,
     "BenefitCategoryName": "fitness2",
     "BenefitCategoryID": 10,
-    "BenefitEnglishDescription": "English description2" || null
+    "BenefitEnglishDescription": "English description2"
 }
 ]
