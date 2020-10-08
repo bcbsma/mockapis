@@ -16,7 +16,7 @@
         "BenefitShortDescription": "This health plan covers medically necessary inpatient admissions in a Chronic Disease Hospital. This type of hospital is sometimes referred to as a chronic care or long term care hospital for medically necessary covered services. These covered services include: Medical care furnished by a Physician or Nurse Practitioner. Semiprivate room and board and special services furnished by the hospital."
     }
   ],
-  "benefitsCPCbenefitCategoryID":
+  "benefitsCPCbenefitCategoryID": [
     {
         "CPC": 145231,
         "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
@@ -24,3 +24,4 @@
         "BenefitEnglishDescription": "Human organ and stem cell bone marrow transplants furnished in accordance with Blue Cross Blue Shield medical policy and medical technology assessment guidelines. This includes one or more stem cell transplants for a member who has been diagnosed with breast cancer that has spread. For covered transplants, benefits also include the harvesting of the donor's organ or stem cells when the recipient is a member and drug therapy during the transplant procedure to prevent rejection of the transplanted organ/tissue or stem cells. Voluntary sterilization procedures."
     }
 }
+]
