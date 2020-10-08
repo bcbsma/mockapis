@@ -39,12 +39,16 @@
         ]
     }
   ],
-  "benefitsCPCbenefitCategoryID":
+  "benefitsCPCbenefitCategoryID":[
     {
-    "CPC": 145231,
+      "CPC": 145231 [
+    {
     "BenefitCategoryName": "fitness2",
     "BenefitCategoryID": 10,
     "BenefitEnglishDescription": "English description2"
     }
+        }
+        ]
+      ]
 }
 
