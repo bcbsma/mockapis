@@ -2,11 +2,11 @@
   "benefitsCPCSearchEnabled": [
     {
         "CPC": 145231,
-        "enabled": "true"
+        "enabled": true
     },
     {
         "CPC": 145221,
-        "enabled": "false"
+        "enabled": false
     }
   ],
   "benefitsKeywordSearch": [
