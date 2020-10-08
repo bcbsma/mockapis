@@ -11,7 +11,7 @@
   ],
   "benefitsKeywordSearch": [
     {
-        "CPC: 123",
+        "CPC": 123,
         "results": [
             {
                 "CPC": 123,
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "CPC: 456",
+        "CPC": 456,
         "results": [
             {
                 "BenefitCategoryName": "fitness1",
@@ -44,7 +44,7 @@
 ]
   "benefitsCPCbenefitCategoryID":
    {
-    "CPC": 123
+    "CPC": 123,
     "BenefitCategoryName": "fitness2",
     "BenefitCategoryID": 10,
     "BenefitEnglishDescription": "English description2" or null
