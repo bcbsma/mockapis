@@ -1,52 +1,26 @@
 {
   "benefitsCPCSearchEnabled": [
-    {
-        "CPC": 123,
-        "enabled": true
-    },
-    {
-        "CPC": 456,
-        "enabled": false
-    }
+    { "145231": true},
   ],
   "benefitsKeywordSearch": [
     {
-        "CPC": 123,
-        "results": [
-            {
-                "CPC": 123,
-                "BenefitCategoryName": "fitness1",
-                "BenefitCategoryID": 9,
-                "BenefitShortDescription": "What short Description"
-            },
-            {
-                "BenefitCategoryName": "fitness2",
-                "BenefitCategoryID": 10,
-                "BenefitShortDescription": "What short Description"
-            }
-        ]
+        "CPC": 145231,
+        "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
+        "BenefitCategoryID": 9,
+        "BenefitShortDescription": "Semiprivate room and board and special services furnished by the hospital.Surgery furnished by a Physician, Podiatrist, Nurse Practitioner or Dentist and services of an assistant surgeon when Blue Cross Blue Shield decides an assistant is needed. Reconstructive surgery. This is non-dental surgery that is meant to improve or give back bodily function or correct a functional physical impairment that was caused by a birth defect, a prior surgical procedure or disease or an accidental injury. This includes surgery to correct a deformity or disfigurement that was caused by an accidental injury. For services on or after November 8, 2016, this also includes surgery to correct or repair disturbances of body composition caused by HIV associated lipodystrophy syndrome, when the covered provider determines treatment is necessary to correct, repair, or lessen the effects of HIV associated lipodystrophy syndrome. These services include (but are not limited to): reconstructive surgery, such as suction-assisted lipectomy; other restorative procedures; and dermal injections or fillers for reversal of facial lipoatrophy syndrome."
     },
     {
-        "CPC": 456,
-        "results": [
-            {
-                "BenefitCategoryName": "fitness1",
-                "BenefitCategoryID": 9,
-                "BenefitShortDescription": "What short Description"
-            },
-            {
-                "BenefitCategoryName": "fitness2",
-                "BenefitCategoryID": 10,
-                "BenefitShortDescription": "What short Description"
-            }
-        ]
+        "CPC": 145231,
+        "BenefitCategoryName": "Inpatient Care in a Chronic Disease Hospital",
+        "BenefitCategoryID": 10,
+        "BenefitShortDescription": "This health plan covers medically necessary inpatient admissions in a Chronic Disease Hospital. This type of hospital is sometimes referred to as a chronic care or long term care hospital for medically necessary covered services. These covered services include: Medical care furnished by a Physician or Nurse Practitioner. Semiprivate room and board and special services furnished by the hospital."
     }
-],
-  "benefitsCPCbenefitCategoryID": [
-   {
-    "CPC": 123,
-    "BenefitCategoryName": "fitness2",
-    "BenefitCategoryID": 10,
-    "BenefitEnglishDescription": "English description2" or null
+  ],
+  "benefitsCPCbenefitCategoryID":
+    {
+        "CPC": 145231,
+        "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
+        "BenefitCategoryID": 9,
+        "BenefitEnglishDescription": "Human organ and stem cell bone marrow transplants furnished in accordance with Blue Cross Blue Shield medical policy and medical technology assessment guidelines. This includes one or more stem cell transplants for a member who has been diagnosed with breast cancer that has spread. For covered transplants, benefits also include the harvesting of the donor's organ or stem cells when the recipient is a member and drug therapy during the transplant procedure to prevent rejection of the transplanted organ/tissue or stem cells. Voluntary sterilization procedures."
+    }
 }
-]
