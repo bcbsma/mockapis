@@ -1,12 +1,12 @@
 {
   "benefitsCPCSearchEnabled": [
     {
-        CPC: 123,
-        enabled: true
+        "CPC": 123,
+        "enabled": true
     },
     {
-        CPC: 456,
-        enabled: false
+        "CPC": 456,
+        "enabled": false
     }
   ],
   "benefitsKeywordSearch": [
