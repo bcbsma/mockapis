@@ -12,14 +12,14 @@
         "CPC": 145231,
         "results": [
             {
-                "BenefitCategoryName": "fitness1",
+                "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
                 "BenefitCategoryID": 9,
-                "BenefitShortDescription": "What short Description"
+                "BenefitShortDescription": "Reconstructive surgery. This is non-dental surgery that is meant to improve or give back bodily function or correct a functional physical impairment that was caused by a birth defect, a prior surgical procedure or disease or an accidental injury. This includes surgery to correct a deformity or disfigurement that was caused by an accidental injury. For services on or after November 8, 2016, this also includes surgery to correct or repair disturbances of body composition caused by HIV associated lipodystrophy syndrome, when the covered provider determines treatment is necessary to correct, repair, or lessen the effects of HIV associated lipodystrophy syndrome."
             },
             {
-                "BenefitCategoryName": "fitness2",
+                "BenefitCategoryName": "Inpatient Care in a Chronic Disease Hospital",
                 "BenefitCategoryID": 10,
-                "BenefitShortDescription": "What short Description"
+                "BenefitShortDescription": "This health plan covers medically necessary inpatient admissions in a Chronic Disease Hospital. This type of hospital is sometimes referred to as a chronic care or long term care hospital for medically necessary covered services."
             }
         ]
     },
@@ -27,14 +27,14 @@
         "CPC": 145221,
         "results": [
             {
-                "BenefitCategoryName": "fitness1",
+                "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
                 "BenefitCategoryID": 9,
-                "BenefitShortDescription": "What short Description"
+                "BenefitShortDescription": "Oral surgery. This includes: reduction of a dislocation or fracture of the jaw or facial bone; excision of a benign or malignant tumor of the jaw; removal of impacted teeth that are fully or partially imbedded in the bone; and orthognathic surgery that is needed to correct a significant functional impairment that cannot be adequately corrected with orthodontic services."
             },
             {
-                "BenefitCategoryName": "fitness2",
+                "BenefitCategoryName": "Inpatient Care in a Chronic Disease Hospital",
                 "BenefitCategoryID": 10,
-                "BenefitShortDescription": "What short Description"
+                "BenefitShortDescription": "Semiprivate room and board and special services furnished by the hospital.Medical care furnished by a Physician or Nurse Practitioner."
             }
         ]
     }
@@ -42,9 +42,9 @@
   "benefitsCPCbenefitCategoryID":
     {
     "CPC": 145231,
-    "BenefitCategoryName": "fitness2",
+    "BenefitCategoryName": "Inpatient Medical and Surgical Care in a General Hospital",
     "BenefitCategoryID": 10,
-    "BenefitEnglishDescription": "English description2"
+    "BenefitEnglishDescription": "Semiprivate room and board and special services furnished by the hospital.Medical care furnished by a Physician or Nurse Practitioner."
     }
 }
 
