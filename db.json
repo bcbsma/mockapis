@@ -2,17 +2,17 @@
   "benefitsCPCSearchEnabled": [
     {
 
-        CPC: 123,
+        "CPC": 123,
 
-        enabled: true
+        "enabled": true
 
     },
 
     {
 
-        CPC: 456,
+        "CPC": 456,
 
-        enabled: false
+        "enabled": false
 
     }
   ],
